@@ -58,7 +58,7 @@ const Navbar = () => {
         {/* Desktop CTAs */}
         <div className="hidden md:flex items-center gap-3">
           <a
-            href="https://gobusit.vercel.app/login"
+            href="https://gobusit-app.vercel.app/login"
             className="text-sm font-medium text-muted-foreground hover:text-foreground transition-colors"
           >
             Log In
