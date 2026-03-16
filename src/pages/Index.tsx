@@ -190,7 +190,7 @@ const Index = () => {
           </p>
           <div className="flex flex-wrap justify-center gap-3">
             <a
-              href="https://gobusit.vercel.app/register"
+              href="https://gobusit-app.vercel.app/register"
               className="bg-primary text-primary-foreground font-semibold rounded-xl px-6 py-3 hover:bg-primary-dark transition-colors text-sm"
             >
               Book a Trip Now

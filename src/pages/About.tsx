@@ -98,7 +98,7 @@ const About = () => {
       <SectionWrapper className="bg-background py-20 border-t border-surface-border">
         <div className="max-w-6xl mx-auto px-6 text-center">
           <h2 className="text-3xl md:text-4xl font-extrabold text-foreground tracking-tight mb-6">Curious to see it in action?</h2>
-          <a href="https://gobusit.vercel.app/register" className="inline-block bg-primary text-primary-foreground font-semibold rounded-xl px-6 py-3 hover:bg-primary-dark transition-colors text-sm">
+          <a href="https://gobusit-app.vercel.app/register" className="inline-block bg-primary text-primary-foreground font-semibold rounded-xl px-6 py-3 hover:bg-primary-dark transition-colors text-sm">
             Try GoBusIt Free
           </a>
         </div>
