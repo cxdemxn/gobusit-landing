@@ -106,7 +106,7 @@ const Navbar = () => {
               ))}
               <hr className="border-border" />
               <a
-                href="https://gobusit.vercel.app/login"
+                href="https://gobusit-app.vercel.app/login"
                 className="text-sm font-medium text-muted-foreground py-2"
               >
                 Log In
