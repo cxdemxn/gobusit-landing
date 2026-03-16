@@ -58,13 +58,13 @@ const Navbar = () => {
         {/* Desktop CTAs */}
         <div className="hidden md:flex items-center gap-3">
           <a
-            href="https://gobusit.vercel.app/login"
+            href="https://gobusit-app.vercel.app/login"
             className="text-sm font-medium text-muted-foreground hover:text-foreground transition-colors"
           >
             Log In
           </a>
           <a
-            href="https://gobusit.vercel.app/register"
+            href="https://gobusit-app.vercel.app/register"
             className="text-sm font-semibold bg-primary text-primary-foreground rounded-xl px-5 py-2.5 hover:bg-primary-dark transition-colors"
           >
             Get Started
@@ -106,13 +106,13 @@ const Navbar = () => {
               ))}
               <hr className="border-border" />
               <a
-                href="https://gobusit.vercel.app/login"
+                href="https://gobusit-app.vercel.app/login"
                 className="text-sm font-medium text-muted-foreground py-2"
               >
                 Log In
               </a>
               <a
-                href="https://gobusit.vercel.app/register"
+                href="https://gobusit-app.vercel.app/register"
                 className="text-sm font-semibold bg-primary text-primary-foreground rounded-xl px-5 py-2.5 text-center hover:bg-primary-dark transition-colors"
               >
                 Get Started
