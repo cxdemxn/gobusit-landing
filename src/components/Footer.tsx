@@ -40,9 +40,9 @@ const Footer = () => {
           <div>
             <h4 className="font-semibold text-sm mb-4 opacity-80">App</h4>
             <div className="flex flex-col gap-2">
-              <a href="https://gobusit.vercel.app/search" className="text-sm opacity-60 hover:opacity-100 transition-opacity">Book a Trip</a>
-              <a href="https://gobusit.vercel.app/register" className="text-sm opacity-60 hover:opacity-100 transition-opacity">Create Account</a>
-              <a href="https://gobusit.vercel.app/login" className="text-sm opacity-60 hover:opacity-100 transition-opacity">Operator Login</a>
+              <a href="https://gobusit-app.vercel.app/search" className="text-sm opacity-60 hover:opacity-100 transition-opacity">Book a Trip</a>
+              <a href="https://gobusit-app.vercel.app/register" className="text-sm opacity-60 hover:opacity-100 transition-opacity">Create Account</a>
+              <a href="https://gobusit-app.vercel.app/login" className="text-sm opacity-60 hover:opacity-100 transition-opacity">Operator Login</a>
             </div>
           </div>
         </div>
