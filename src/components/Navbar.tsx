@@ -64,7 +64,7 @@ const Navbar = () => {
             Log In
           </a>
           <a
-            href="https://gobusit.vercel.app/register"
+            href="https://gobusit-app.vercel.app/register"
             className="text-sm font-semibold bg-primary text-primary-foreground rounded-xl px-5 py-2.5 hover:bg-primary-dark transition-colors"
           >
             Get Started
