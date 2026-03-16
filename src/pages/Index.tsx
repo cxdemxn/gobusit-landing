@@ -48,7 +48,7 @@ const Index = () => {
               className="flex flex-wrap gap-3 mb-6"
             >
               <a
-                href="https://gobusit.vercel.app/search"
+                href="https://gobusit-app.vercel.app/search"
                 className="bg-primary-foreground text-primary font-semibold rounded-xl px-6 py-3 hover:bg-primary-foreground/90 transition-colors text-sm"
               >
                 Find a Bus →
