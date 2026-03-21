@@ -45,6 +45,7 @@ App runs on: http://localhost:8080
 ## 🔗 Related Repositories
 
 - [gobusit-backend](https://github.com/cxdemxn/gobusit-backend) — Spring Boot REST API (Java, PostgreSQL, JWT)
+- [gobusit-frontend](https://github.com/cxdemxn/gobusit-frontend) — React passenger and admin booking app
 - [gobusit-db](https://github.com/cxdemxn/gobusit-db) — Database schema documentation
 - [gobusit-app](https://gobusit-app.vercel.app) — The live booking app (passenger + admin)
 
