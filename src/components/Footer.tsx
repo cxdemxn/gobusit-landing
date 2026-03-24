@@ -50,8 +50,7 @@ const Footer = () => {
 
       <div className="border-t border-primary-foreground/10">
         <div className="max-w-6xl mx-auto px-6 py-5 flex flex-col md:flex-row items-center justify-between gap-2 text-xs opacity-50">
-          <span>© 2025 GoBusIt. All rights reserved.</span>
-          <span>Built with ♥ for travelers everywhere.</span>
+          <span>© 2026 GoBusIt. All rights reserved.</span>
         </div>
       </div>
     </footer>
